@@ -1,25 +1,25 @@
-bill_id,title,summary,type,status,date
-1,Police Equipment Funding,An ordinance to allocate additional funds for police equipment and training to improve public safety readiness.,N/A,Passed,2024-11-15
-2,Reduce Police Budget,An ordinance proposing to reduce funding for law enforcement departments and redirect it to community programs.,N/A,Proposed,2025-01-12
-3,Teacher Salary Increase,An ordinance to increase the salaries of public school teachers across the city to address retention issues.,N/A,Passed,2024-12-03
-4,School Funding Cut,An ordinance proposing budget cuts for public schools to reduce overall city spending.,N/A,Proposed,2025-02-01
-5,Small Business Tax Relief,An ordinance providing tax incentives to small businesses to promote local economic growth and job creation.,N/A,Passed,2025-01-18
-6,Corporate Tax Increase,An ordinance to increase corporate taxes on large businesses to fund social services.,N/A,Proposed,2025-03-10
-7,Library Renovation,An ordinance approving funding for public library renovations to improve access to community resources.,N/A,Passed,2025-02-10
-8,Park Maintenance Initiative,An ordinance to enhance and maintain public parks and recreation facilities throughout the city.,N/A,Passed,2025-03-07
-9,Neighborhood Watch Expansion,An ordinance to expand the city’s neighborhood watch program in collaboration with local police.,N/A,Passed,2025-04-21
-10,Restrict Surveillance Usage,An ordinance limiting the use of public surveillance cameras by law enforcement.,N/A,Proposed,2025-05-15
-11,STEM Education Grant,An ordinance establishing grants for schools to promote STEM learning and after-school programs.,N/A,Passed,2025-05-12
-12,Limit Charter School Growth,An ordinance restricting the expansion of charter schools in favor of funding public education programs.,N/A,Proposed,2025-06-19
-13,Affordable Housing Incentive,An ordinance offering developers incentives to include affordable housing units in new projects.,N/A,Passed,2025-06-05
-14,Real Estate Speculation Tax,An ordinance imposing taxes on vacant commercial properties to discourage speculation.,N/A,Proposed,2025-07-14
-15,City Employee Retirement Reform,An ordinance modifying pension contribution rates for city employees to balance the city budget.,N/A,Passed,2025-07-09
-16,Green Energy Procurement,An ordinance to transition all city buildings to renewable energy providers by 2030.,N/A,Passed,2025-08-22
-17,Public Safety Recruitment Drive,An ordinance to fund a recruitment campaign to increase the number of trained emergency responders.,N/A,Passed,2025-09-04
-18,Reduce Fire Department Overtime,An ordinance reducing overtime pay for fire department personnel to lower city operational costs.,N/A,Proposed,2025-09-23
-19,Universal Preschool Initiative,An ordinance establishing free preschool access for all residents to promote early education.,N/A,Passed,2025-10-01
-20,Eliminate School Nutrition Funding,An ordinance cutting funding for public school lunch programs to reduce spending.,N/A,Proposed,2025-10-19
-21,Tech Startup Accelerator Program,An ordinance launching a startup incubator to promote innovation and local job growth.,N/A,Passed,2025-10-11
-22,Business Licensing Fee Increase,An ordinance raising annual business licensing fees to generate additional city revenue.,N/A,Proposed,2025-10-20
-23,Public Art Initiative,An ordinance establishing grants to support local artists and public mural projects.,N/A,Passed,2025-10-23
-24,Citywide Noise Regulation,An ordinance introducing noise limits for construction and nightlife venues.,N/A,Proposed,2025-10-25
+,bill_id,title,summary,type,status,date,assessment
+0,1,Police Equipment Funding,An ordinance to allocate additional funds for police equipment and training to improve public safety readiness.,Public Safety,Passed,2024-11-15,1.0
+1,2,Reduce Police Budget,An ordinance proposing to reduce funding for law enforcement departments and redirect it to community programs.,Public Safety,Proposed,2025-01-12,-0.8
+2,3,Teacher Salary Increase,An ordinance to increase the salaries of public school teachers across the city to address retention issues.,Education,Passed,2024-12-03,0.85
+3,4,School Funding Cut,An ordinance proposing budget cuts for public schools to reduce overall city spending.,Education,Proposed,2025-02-01,-1.0
+4,5,Small Business Tax Relief,An ordinance providing tax incentives to small businesses to promote local economic growth and job creation.,Economic Development,Passed,2025-01-18,0.8
+5,6,Corporate Tax Increase,An ordinance to increase corporate taxes on large businesses to fund social services.,N/A,Proposed,2025-03-10,N/A
+6,7,Library Renovation,An ordinance approving funding for public library renovations to improve access to community resources.,Education,Passed,2025-02-10,0.75
+7,8,Park Maintenance Initiative,An ordinance to enhance and maintain public parks and recreation facilities throughout the city.,Economic Development,Passed,2025-03-07,0.75
+8,9,Neighborhood Watch Expansion,An ordinance to expand the city’s neighborhood watch program in collaboration with local police.,Public Safety,Passed,2025-04-21,0.75
+9,10,Restrict Surveillance Usage,An ordinance limiting the use of public surveillance cameras by law enforcement.,Public Safety,Proposed,2025-05-15,-1.0
+10,11,STEM Education Grant,An ordinance establishing grants for schools to promote STEM learning and after-school programs.,Education,Passed,2025-05-12,0.75
+11,12,Limit Charter School Growth,An ordinance restricting the expansion of charter schools in favor of funding public education programs.,Education,Proposed,2025-06-19,0.95
+12,13,Affordable Housing Incentive,An ordinance offering developers incentives to include affordable housing units in new projects.,Economic Development,Passed,2025-06-05,0.9
+13,14,Real Estate Speculation Tax,An ordinance imposing taxes on vacant commercial properties to discourage speculation.,Economic Development,Proposed,2025-07-14,0.65
+14,15,City Employee Retirement Reform,An ordinance modifying pension contribution rates for city employees to balance the city budget.,Economic Development,Passed,2025-07-09,0.3
+15,16,Green Energy Procurement,An ordinance to transition all city buildings to renewable energy providers by 2030.,Economic Development,Passed,2025-08-22,0.8
+16,17,Public Safety Recruitment Drive,An ordinance to fund a recruitment campaign to increase the number of trained emergency responders.,Public Safety,Passed,2025-09-04,0.75
+17,18,Reduce Fire Department Overtime,An ordinance reducing overtime pay for fire department personnel to lower city operational costs.,Public Safety,Proposed,2025-09-23,-1.0
+18,19,Universal Preschool Initiative,An ordinance establishing free preschool access for all residents to promote early education.,Education,Passed,2025-10-01,0.8
+19,20,Eliminate School Nutrition Funding,An ordinance cutting funding for public school lunch programs to reduce spending.,Education,Proposed,2025-10-19,-0.85
+20,21,Tech Startup Accelerator Program,An ordinance launching a startup incubator to promote innovation and local job growth.,Economic Development,Passed,2025-10-11,1.0
+21,22,Business Licensing Fee Increase,An ordinance raising annual business licensing fees to generate additional city revenue.,Economic Development,Proposed,2025-10-20,-1.0
+22,23,Public Art Initiative,An ordinance establishing grants to support local artists and public mural projects.,Economic Development,Passed,2025-10-23,0.6
+23,24,Citywide Noise Regulation,An ordinance introducing noise limits for construction and nightlife venues.,Public Safety,Proposed,2025-10-25,0.7
